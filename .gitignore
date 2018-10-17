@@ -1,7 +1,5 @@
-
-*.tgz
-
-*.tar
+VOCdevkit/
+benchmark_RELEASE/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -105,3 +103,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+*.m
+
+*.tgz
+
+*.tar
