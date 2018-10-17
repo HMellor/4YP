@@ -109,3 +109,5 @@ ENV/
 *.tgz
 
 *.tar
+
+pytorch-semseg/runs/
