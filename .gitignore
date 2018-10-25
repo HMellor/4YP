@@ -1,5 +1,5 @@
-VOCdevkit/
-benchmark_RELEASE/
+*/VOCdevkit/
+*/benchmark_RELEASE/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
