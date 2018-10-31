@@ -1,0 +1,2 @@
+[submodule "logger"]
+	url = https://github.com/oval-group/logger.git
