@@ -111,3 +111,19 @@ ENV/
 *.tar
 
 pytorch-semseg/runs/
+
+*.fls
+
+*.gz
+
+*.out
+
+*.xml
+
+*.fdb_latexmk
+
+*.blg
+
+*.aux
+
+*.bbl
