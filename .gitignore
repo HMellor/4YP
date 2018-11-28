@@ -127,3 +127,5 @@ pytorch-semseg/runs/
 *.aux
 
 *.bbl
+
+report_interim/interim report\.pdf
