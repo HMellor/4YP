@@ -136,3 +136,7 @@ report_interim/interim report\.pdf
 report/main\.pdf
 
 *.pt
+
+pytorch-semseg/*.jpg
+
+pytorch-semseg/*.png
