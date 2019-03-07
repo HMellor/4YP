@@ -29,15 +29,16 @@ positional arguments:
   config                path of configuration file to use
 
 optional arguments:
-  -h, --help            show this help message and exit
-  -lr LR, --learning_rate LR
-                        learning rate to use
-  -wd WD, --weight_decay WD
-                        weight decay to use
-  -sp SP, --superpixels SP
-                        how many superpixels to use
-  -n [NAME], --name [NAME]
-                        name to give the experiment output directory
-  -e, --evaluate        causes prediction/image pairs to be saved for later
-                        evaluation
+  -h, --help                        show this help message and exit
+  
+  -lr LR, --learning_rate LR        learning rate to use
+  
+  -wd WD, --weight_decay WD         weight decay to use
+  
+  -sp SP, --superpixels SP          how many superpixels to use
+  
+  -n [NAME], --name [NAME]          name to give the experiment output directory
+                                    
+  -e, --evaluate                    causes prediction/image pairs to be saved for later
+                                    evaluation
 ```
