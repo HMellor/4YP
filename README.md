@@ -4,7 +4,7 @@
 
 This repository is the top level repository for my 4th year project. The submodules are as follows:
 * [code](https://github.com/HMellor/4YP_code) - The code written and used to carry out the experiments of this project.
-* [logger](https://github.com/oval-group/logger) - A high level API for easy graph plotting in [Visdom](https://github.com/facebookresearch/visdom).
+* [logger](https://github.com/oval-group/logger) (by OVAL group) - A high level API for easy graph plotting in [Visdom](https://github.com/facebookresearch/visdom).
 * [report](https://github.com/HMellor/4YP_report) - The writeup of the project and it's findings.
 
 The purpose of this project is to enable the application of 'Overlap' or 'Intersection over Union' (IoU) score as a directly learned objective function in the deep learning problem of semantic segmentation.
