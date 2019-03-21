@@ -1,9 +1,12 @@
 [submodule "logger"]
 	path = logger
 	url = https://github.com/oval-group/logger.git
+	branch = origin/master
 [submodule "code"]
 	path = code
 	url = https://github.com/HMellor/4YP_code.git
+	branch = origin/master
 [submodule "report"]
 	path = report
 	url = https://github.com/HMellor/4YP_report.git
+	branch = origin/master
